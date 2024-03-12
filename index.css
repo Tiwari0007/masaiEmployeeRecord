@@ -1,0 +1,9 @@
+/* Fill CSS here */
+#submit{
+    background-color: rgb(73, 73, 182);
+    border-radius: 5px;
+}
+h1,th{
+    background-color: rgb(70, 70, 161);
+    border-radius: 5px;
+}
